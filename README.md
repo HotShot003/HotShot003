@@ -99,9 +99,6 @@ This repository showcases my work using pure JavaScript (often referred to as "V
 ## GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HotShot003&show_icons=true&theme=radical)
 
-## Top Languages
-![Snake animation](https://github.com/HotShot003/HotShot003/blob/output/github-contribution-grid-snake.svg)
-
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-padhiyar-149210257)
