@@ -113,5 +113,5 @@ Feel free to explore my repositories and connect with me. I'm always open to new
 
 ---
 
-![Snake animation](https://github.com/HotShot003/my-gitprofile/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/HotShot003/HotShot003/blob/output/github-contribution-grid-snake.svg)
 
