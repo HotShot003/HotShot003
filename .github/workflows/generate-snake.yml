@@ -1,0 +1,47 @@
+name: Generate Snake
+
+# Controls when the action will run. This action runs every 6 hours.
+on:
+  schedule:
+    # every 6 hours
+    - cron: "0 */6 * * *"
+
+  # Allows to run the workflow manually from the Actions tab.
+  workflow_dispatch:
+
+# The sequence of runs in this workflow:
+jobs:
+  build:
+    # The type of runner that the job will run on.
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job.
+    steps:
+      # Checks out your repository under $GITHUB_WORKSPACE, so your job can access it.
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # Generates the snake animation.
+      - name: Generate Snake
+        uses: Platane/snk@v2
+        with:
+          github_user_name: HotShot003
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      # Push the changes to the output branch.
+      - name: Push Changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: output
+          force: true
+
+      # Deploy the generated SVG to GitHub Pages.
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
