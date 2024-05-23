@@ -89,7 +89,6 @@ This repository showcases my work using pure JavaScript (often referred to as "V
 
 ### Personal Information
 - **Gender:** Male
-- **Marital Status:** Single
 - **Languages Known:** English, Hindi, Gujarati
 
 ### Web Links
