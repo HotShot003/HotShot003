@@ -109,3 +109,6 @@ This repository showcases my work using pure JavaScript (often referred to as "V
 
 Feel free to explore my repositories and connect with me. I'm always open to new opportunities and collaborations!
 
+---
+
+![Snake animation](https://github.com/HotShot003/HotShot003/blob/output/github-contribution-grid-snake.svg)
