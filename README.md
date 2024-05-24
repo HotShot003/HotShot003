@@ -2,6 +2,15 @@
 
 Welcome to my GitHub profile! I'm Anurag Padhiyar, and I'm passionate about learning new things and exploring various technologies. I have a particular love for coding in Python and developing exciting projects.
 
+
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/HotShot003/HotShot003/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/HotShot003/HotShot003/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+![](https://komarev.com/ghpvc/?username=HotShot003)
+
+
+
 ### About Me
 - 🔭 I’m currently working on:
   - **First-Person Shooter (FPS) Game Project**: Developing an FPS game with smart NPC (Non-Player Character) behaviors to enhance the gaming experience. Stay tuned for updates!
