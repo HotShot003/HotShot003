@@ -101,8 +101,8 @@ This repository showcases my work using pure JavaScript (often referred to as "V
 
 ### Web Links
 
-- **LeetCode:** [HotShotx003](https://leetcode.com/u/HotShotx003/)
-- **CodeChef:** [hotshot96](https://www.codechef.com/users/hotshot96)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/HotShotx003/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/hotshot96)
 
 
 ## 📫 Connect With Me:
