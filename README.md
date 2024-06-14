@@ -56,6 +56,7 @@ Welcome to my GitHub profile! I'm Anurag Padhiyar, and I'm passionate about lear
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Pygame](https://img.shields.io/badge/pygame-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Game Development](https://img.shields.io/badge/Game%20Development-FF0000.svg?style=for-the-badge&logo=gamepad&logoColor=white)
+<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
 
 # 📊 GitHub Stats:
