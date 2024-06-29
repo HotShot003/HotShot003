@@ -57,8 +57,8 @@ Welcome to my GitHub profile! I'm Anurag Padhiyar, and I'm passionate about lear
 ![Pygame](https://img.shields.io/badge/pygame-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Game Development](https://img.shields.io/badge/Game%20Development-FF0000.svg?style=for-the-badge&logo=gamepad&logoColor=white)
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-
-
+<img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
+<img src="https://img.shields.io/badge/vite%20-%23646CFF.svg?&style=for-the-badge&logo=vite&logoColor=white"/>
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HotShot003&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HotShot003&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -104,7 +104,7 @@ This repository showcases my work using pure JavaScript (often referred to as "V
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/HotShotx003/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/hotshot96)
-
+[![Steam](https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199180624726/)
 
 ## 📫 Connect With Me:
 
@@ -113,6 +113,7 @@ This repository showcases my work using pure JavaScript (often referred to as "V
   <a href="https://www.linkedin.com/in/anurag-padhiyar-149210257"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/anurag_pad6"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://www.instagram.com/anurag_padhiyar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  
 </p>
     
 ---
