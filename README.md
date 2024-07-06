@@ -13,13 +13,14 @@ Welcome to my GitHub profile! I'm Anurag Padhiyar, and I'm passionate about lear
 
 ### About Me
 - 🔭 I’m currently working on:
-  - **First-Person Shooter (FPS) Game Project**: Developing an FPS game with smart NPC (Non-Player Character) behaviors to enhance the gaming experience. Stay tuned for updates!
-  - **Vanilla JavaScript Projects**: Exploring and showcasing my work using pure JavaScript (often referred to as "Vanilla JavaScript").
+  - **First-Person Shooter (FPS) Game Project**: Developing an FPS game with smart NPC (Non-Player Character) behaviors to enhance the gaming experience.
+  - **News Aggregator Application** : Leading a team to develop a multilingual news aggregator platform. Stay tuned for updates!
   - **React Projects**: Building dynamic and interactive web applications using React.
 
 - 🌱 I’m currently learning:
   - **Game Development**: Diving deeper into game mechanics, AI, and rendering techniques.
   - **JavaScript and React**: Enhancing my front-end development skills using pure JavaScript (Vanilla JS) and React for dynamic and interactive web applications.
+  - **React-3-Fiber** : Exploring React Three Fiber to learn more about creating 3D graphics and interactive experiences in React.
 
 - 👯 I’m looking to collaborate on:
   - Game development projects.
@@ -29,11 +30,14 @@ Welcome to my GitHub profile! I'm Anurag Padhiyar, and I'm passionate about lear
 - 🤔 I’m looking for help with:
   - Advanced game development techniques.
   - Best practices in React for scalable and maintainable codebases.
+  - Three.Js and R3F Guidence
 
 - 💬 Ask me about:
   - Python programming.
   - Game development basics.
   - JavaScript and React for front-end development.
+  - Apex Legends Gameplay
+  - Video Games and Trends
 
 - 😄 Pronouns: he/him
 
@@ -59,6 +63,8 @@ Welcome to my GitHub profile! I'm Anurag Padhiyar, and I'm passionate about lear
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
 <img src="https://img.shields.io/badge/vite%20-%23646CFF.svg?&style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/> 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HotShot003&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HotShot003&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -76,12 +82,26 @@ FPS-Video-Game is a First-Person-Shooter (FPS) game built using Python and Pygam
 - **Smart Enemies:** Enemies utilize pathfinding algorithms for strategic behavior.
 - **Raycasting Graphics:** Experience a pseudo-3D environment with raycasting rendering.
 
-#### [Vanilla-JS-Projects](https://github.com/HotShot003/Vanilla-JavaScript-Projects)
-This repository showcases my work using pure JavaScript (often referred to as "Vanilla JavaScript").
+#### [3D-Web-Game](https://github.com/HotShot003/3D-Web-Game)
 
-**Features:**
-- **Pure JavaScript Implementation:** Develop projects using only core JavaScript.
-- **Educational Resources:** Serves as a learning tool for understanding the capabilities of Vanilla JS.
+The goal is to develop a third-person controller game with animations, physics, and movement using React Three Fiber, HTML, CSS, and JavaScript. 
+
+Yarn is used for package management.
+
+**Features**
+- **3D Models:** Detailed character models and maps.
+- **Movement and Physics:** Realistic movement and physics for a dynamic gaming experience.
+
+#### [News Aggreator Application](https://github.com/HotShot003/News-Aggregator)
+
+NewsHive is a multilingual news aggregator that delivers personalized news experiences across languages, integrating high-quality translations and intuitive features for seamless access and engagement.
+
+I am leading this project.
+
+**Features**
+- **User-Friendly Interface**
+- User Authentication
+- Bookmark Articles
 
 ### Technical Strengths
 - **Python**
@@ -105,7 +125,7 @@ This repository showcases my work using pure JavaScript (often referred to as "V
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/HotShotx003/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/hotshot96)
 [![Steam](https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199180624726/)
-
+[![Personal-Portfolio-Website](https://img.shields.io/badge/Portfolio%20-%23121011.svg?&style=for-the-badge&logo=github=Black)](https://anuragpadhiyar-portfolio-website03.netlify.app/)
 ## 📫 Connect With Me:
 
 <p align="left">
