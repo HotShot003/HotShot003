@@ -133,6 +133,7 @@ I am leading this project.
   <a href="https://www.linkedin.com/in/anurag-padhiyar-149210257"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/anurag_pad6"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://www.instagram.com/anurag_padhiyar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://discord.com/channels/@Mr.Duck"> <img src="https://img.shields.io/badge/%3CDiscord%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord"> </a>
   
 </p>
     
