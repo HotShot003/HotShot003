@@ -125,6 +125,7 @@ I am leading this project.
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/hotshot96)
 [![Steam](https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199180624726/)
 [![Personal-Portfolio-Website](https://img.shields.io/badge/Portfolio%20-%23121011.svg?&style=for-the-badge&logo=github=Black)](https://anuragpadhiyar-portfolio-website03.netlify.app/)
+
 ## 📫 Connect With Me:
 
 <p align="left">
