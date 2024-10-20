@@ -41,6 +41,7 @@ Welcome to my GitHub profile! I'm Anurag Padhiyar, and I'm passionate about lear
 - 😄 Pronouns: he/him
 
 - ⚡ Fun fact:
+  
   - I love to explore the intersection of technology and creativity, especially how coding can bring imaginative ideas to life!
 
 - 🎮 Hobbies:
