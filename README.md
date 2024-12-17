@@ -8,8 +8,6 @@ Welcome to my GitHub profile! I'm Anurag Padhiyar, and I'm passionate about lear
 
 ![](https://komarev.com/ghpvc/?username=HotShot003)
 
-
-
 ### About Me
 - 🔭 I’m currently working on:
   - **First-Person Shooter (FPS) Game Project**: Developing an FPS game with smart NPC (Non-Player Character) behaviors to enhance the gaming experience.
