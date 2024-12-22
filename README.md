@@ -64,8 +64,7 @@ Welcome to my GitHub profile! I'm Anurag Padhiyar, and I'm passionate about lear
 <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/> 
 
 # 📊 GitHub Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HotShot003&theme=dark&hide_border=false) 
-<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=HotShot003&theme=dark)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HotShot003&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
