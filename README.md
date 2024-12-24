@@ -65,7 +65,6 @@ Welcome to my GitHub profile! I'm Anurag Padhiyar, and I'm passionate about lear
 
 # 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=HotShot003&theme=dark)](https://git.io/streak-stats)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HotShot003&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
