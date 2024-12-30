@@ -44,6 +44,7 @@ Welcome to my GitHub profile! I'm Anurag Padhiyar, and I'm passionate about lear
   - I love to explore the intersection of technology and creativity, especially how coding can bring imaginative ideas to life!
 
 - 🎮 Hobbies:
+  
   - **Playing Video Games like Apex Legends:** Enjoying immersive gaming experiences and engaging in fast-paced combat, strategic teamwork, and dynamic gameplay in popular titles like Apex Legends.
   - **Exploring Game Mechanics:** Fascinated by understanding the inner workings of games, including rules, interactions, systems, and design principles, to gain insights into what makes games engaging and enjoyable.
 
@@ -67,6 +68,7 @@ Welcome to my GitHub profile! I'm Anurag Padhiyar, and I'm passionate about lear
 # 📊 GitHub Stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=HotShot003&theme=dark)]()
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HotShot003&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
