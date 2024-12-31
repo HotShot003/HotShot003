@@ -46,6 +46,7 @@ Welcome to my GitHub profile! I'm Anurag Padhiyar, and I'm passionate about lear
 - 🎮 Hobbies:
   
   - **Playing Video Games like Apex Legends:** Enjoying immersive gaming experiences and engaging in fast-paced combat, strategic teamwork, and dynamic gameplay in popular titles like Apex Legends.
+  - 
   - **Exploring Game Mechanics:** Fascinated by understanding the inner workings of games, including rules, interactions, systems, and design principles, to gain insights into what makes games engaging and enjoyable.
 
 
@@ -111,16 +112,9 @@ I am leading this project.
 - **JavaScript**
 - **MySQL**
 - **Front-End Web Development**
+- **React JS**
 
-### Values
-- **Passion for Technology**
-- **Adaptability and Open-Mindedness**
-- **Supportive and Empathy**
-- **Commitment to Continuous Learning**
-
-### Personal Information
-- **Gender:** Male
-- **Languages Known:** English, Hindi, Gujarati
+**Languages Known:** English, Hindi, Gujarati
 
 ### Web Links
 
